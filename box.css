@@ -1,0 +1,84 @@
+.box{
+	background-color:blue;
+	height:30px;
+	width:100%;
+	border-bottom:2px solid black;
+	display:block;
+	float:left;
+}
+.box input{
+	float:left; 
+	height:25px; 
+	width:15%; 
+ 
+	margin-top:2px; 
+	/*margin-bottom:2px;*/
+}
+
+.box input:hover{
+	border-radius:5px 5px 0px 0px;
+				
+		
+	
+}
+.box1{
+    display:block;
+	height:400px;
+	width:20%;
+	border-right:2px solid black;
+	display:block;
+	float:left;
+	
+	
+}
+.box2{
+	
+	width:78%;
+	margin-left:10px;
+	/*border:2px solid black;*/
+	display:block;
+	float:left;
+	
+	
+}
+.box3{
+	
+	width:95%;
+	margin-left:20px;
+	/*border:2px solid black;*/
+	display:block;
+	float:left;
+	margin-top:10px;
+}
+.box4 {
+	
+	width:95%;
+	margin-left:20px;
+	margin-top:10px;
+	/*border:2px solid black;*/
+	display:block;
+	float:left;
+	
+	
+}
+.box5 {
+	
+	width:95%;
+	margin-left:20px;
+	/*border:2px solid black;*/
+	display:block;
+	float:left;
+	overflow:hidden;
+	
+	
+}
+
+.box6 {
+	
+	width:100%;
+	/*border-top:2px solid black;*/
+	display:block;
+	float:left;
+	
+	
+}
